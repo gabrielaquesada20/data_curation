@@ -17,11 +17,8 @@ draft: true
 
   _Dalbergia retusa_ and _Terminalia amazonia_ are two neotropical species used for timber extraction (Moya & Muñoz, 2010).
   
-  ![](https://pfaf.org/Admin/PlantImages/Dalbergia-retusa-2.jpg)
-    _Dalbergia retusa_ 
-  
-  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Terminalia_argentea.jpg/220px-Terminalia_argentea.jpg)
-    _Terminalia amazonia_
+  ![](https://pfaf.org/Admin/PlantImages/Dalbergia-retusa-2.jpg)![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Terminalia_argentea.jpg/220px-Terminalia_argentea.jpg)
+   
   
 
   * Nutrient facilitation by nitrogen fixers. 
