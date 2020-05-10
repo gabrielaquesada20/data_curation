@@ -37,6 +37,8 @@ This study was conducted in the native species plantation of the [Agua Salud](ht
 
 Our research focuses on 33 plots with the mixtures of two target species treatment, being _Terminalia amazonia_ and _Dalbergia retusa_ the studied species. Each of these plots are divided by 15 x 15 tree rows, were the first row is composed of groups of three individuals of _T. amazonia_ alternated by three _D. retusa’s_ individuals. The next row is composed of the alternate of an individual of each species, where each individual is separated by three meters. This design creates hexagonal subplots of a _T. amazonia_ encircled by six _D. retusa_ and vice versa, allowing to test the tree species interactions. (FIG X). The treatment (a) has four replicates of D.retusa in the center, and treartment (b) has four replicates of centered T.amazonia. 
 
+![](C:/Users/Gabriela/Desktop/experimental-desing.png)
+
 
 ## Results
 
